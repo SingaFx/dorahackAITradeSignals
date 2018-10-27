@@ -54,6 +54,11 @@ Basic UI for investor to get signal summary is done. A facebook chat bot to auto
 Smart Contract to execute after 4 days is to be made.
 
 
+Tools and resources used:
+The blockchain demo has been modified from the amazing blockchain demo: https://github.com/anders94/blockchain-demo
+Flask, Soup, Node.js, Anaconda, Docker, Angular CLI
+
+
 
 
 

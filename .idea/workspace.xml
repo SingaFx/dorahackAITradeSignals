@@ -1,26 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b0be690-190d-4c99-9eb1-9491e49adeb0" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/coin_calendar.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/coin_calendar_past.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/events.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/events_reset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/exchange.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gecko.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getCoinMarketCalData.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getCoinMarketCalPastData.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/getCoinMarketCapData.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/github_upload.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/historical_data.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/historical_data_reset.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/historical_price.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/results.csv" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ticker.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/ticker_reset.py" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="1b0be690-190d-4c99-9eb1-9491e49adeb0" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +114,7 @@
         <entry file="file://$PROJECT_DIR$/prediction/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -452,7 +433,7 @@
     <entry file="file://$PROJECT_DIR$/prediction/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="18" column="7" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>

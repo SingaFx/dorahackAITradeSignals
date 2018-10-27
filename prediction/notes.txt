@@ -1,0 +1,4 @@
+python -c 'from test2 import *; startUp()'
+npx http-server
+
+python -c 'from test2 import *; startUp()'
